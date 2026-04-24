@@ -1,0 +1,1 @@
+<h2>furthest-point-from-origin Notes</h2><hr>[ Time taken: 8d 2hrs 48m 21s ]
